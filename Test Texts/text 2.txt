@@ -1,3 +1,0 @@
-banana banana like banana to write a class using Groovy to search and banana within all files present in
-a given directory and subdirectories underneath. Include banana in bananar class to indicate
-why banana chose apple specific algorithms banana did (especially anything banana found particularly cool).
