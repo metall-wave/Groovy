@@ -3,7 +3,7 @@
 - Make sure you have at least java 8 installed.
 - Download and install groovy https://groovy.apache.org/download.html
 - After cloning the repository, navigate to the root folder in your command prompt
-- Type in the following format
+- Type in the following command format
 
 ```
 groovy .\app.groovy "<texts-directory>" "<pattern-to-match>" "<replacement-text>" "<optional-log-file-directory>"
