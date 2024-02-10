@@ -38,7 +38,7 @@ class Logger{
         def formattedDateTime = currentDateTime.format(formatter);
 
         // Append message to log file
-        logFile.text += "[$formattedDateTime] ${logtype} : ${message}\n";
+        logFile.text += "$formattedDateTime [${logtype}] > ${message}\n";
 
     }
 }
